@@ -32,35 +32,31 @@ For Server:
 ```
 ## Chat Page
 
-![ChatPage](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/homepage.png)
+![ChatPage](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/chatpage.png)
 
 ## User Login Page
 
-![userLoginPage](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/login.png)
+![userLoginPage](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/login.png)
 
 ## User SignUP Page
 
-![SignUPPage](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/signup.png)
+![SignUPPage](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/signup.png)
 
 
 ## Notification
 
-![notification](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/notification.png)
+![notification](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/notification.png)
 
-
-## Text Page
-
-![TextPage](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/chatpage.png)
 
 ## Group Create
 
-![GroupCreate](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/creategroup.png)
+![GroupCreate](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/creategroup.png)
 
 ## Group Update
 
-![groupupdate](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/updategroup.png)
+![groupupdate](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/updategroup.png)
 
 ## LogOut
 
-![logout](https://github.com/chaudhari014/chat-app-chatVista/blob/main/frontend/photo/logout.png)
+![logout](https://github.com/govind-2003/ChatVista/blob/main/frontend/photo/logout.png)
 
